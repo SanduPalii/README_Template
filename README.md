@@ -16,22 +16,24 @@
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+2. 🗯️ [Current Status](#status)
+3. ⚙️ [Technologies Used](#tech)
+4. 🤸 [Getting Started](#quick-start)
+5. 🧭 [Usage](#usage)
+6. 👣 [Contributors](#contributors)
+7. 🖥️  [License](#license)
+8. 📜 [Additional Information](#info)
+ 
 
 ## <a name="introduction">🤖 Introduction</a>
 About the Project
 Provide an overview of the project. Explain its functionality, target audience, and core objectives. Mention what makes it unique.
 
-## <a name="introduction">🤖 Current Status</a>
+## <a name="status">🗯️ Current Status</a>
 
 Phase: Alpha / Beta / Production (choose one)Briefly describe the project's current stage of development and key milestones achieved so far.
 
-## <a name="introduction">⚙️ Technologies Used</a>
+## <a name="tech">⚙️ Technologies Used</a>
 
 List the main technologies, libraries, and tools used in the project:
 
@@ -50,7 +52,7 @@ List the main technologies, libraries, and tools used in the project:
 **Add any other relevant tools or frameworks.**
 
 
-## <a name="introduction">🤸 Getting Started</a>
+## <a name="quick-start">🤸 Getting Started</a>
 
 Getting Started
 
@@ -83,7 +85,7 @@ npm install
 npm start
 ```
 
-## <a name="introduction">🤸 Usage</a>
+## <a name="usage">🧭 Usage</a>
 
 Instructions for running and testing the app:
 
@@ -94,19 +96,19 @@ Instructions for running and testing the app:
  - Follow on-screen instructions to interact with the app.
 
 
-## <a name="introduction">🤸 Contributors</a>
+## <a name="contributors">👣 Contributors</a>
 
 Your Name - Project Lead / Developer
 
 List other contributors here with their roles (if applicable).
 
 
-## <a name="introduction">🤸 License</a>
+## <a name="license">🖥️ License</a>
 
 This project is licensed under the MIT License - feel free to modify and distribute as needed.
 
 
-## <a name="introduction">🤸 Additional Information</a>
+## <a name="info">📜 Additional Information</a>
 
 Add any other relevant information, such as:
 
