@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3 align="center">React Native Template/Example</h3>
+  <h1 align="center">React Native Template/Example</h1>
 
    <div align="center">
      A brief and engaging description of the project. Highlight its main purpose and goals.
