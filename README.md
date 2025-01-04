@@ -104,9 +104,8 @@ List other contributors here with their roles (if applicable).
 
 
 ## <a name="license">🖥️ License</a>
-
-This project is licensed under the MIT License - feel free to modify and distribute as needed.
-
+The repository is released under MIT license.
+Copyright 2024 HAMK Häme University of Applied Sciences
 
 ## <a name="info">📜 Additional Information</a>
 
